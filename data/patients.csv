@@ -1,0 +1,5 @@
+PatientID,Age,Sex,Blood Pressure,Cholesterol,Diagnosis
+1,45,M,120/80,200,Healthy
+2,60,F,140/90,240,Hypertension
+3,35,M,110/70,180,Healthy
+4,50,F,130/85,220,Cholesterol Elevated
